@@ -1,0 +1,7 @@
+linksys.txt
+Created Tue Aug 29 15:41:00 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Linksys wireless routers
+
