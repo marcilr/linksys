@@ -20,3 +20,13 @@ LINKSYS WRT1900AC VS WRT1900ACS | COMPARISON GUIDE
 You want the WRT1900ACS
 http://www.pickmyrouter.com/linksys-wrt1900ac-vs-wrt1900acs/
 
+LINKSYS WRT1900ACS
+Introduced in 2002, the classic Linksys WRT54G served the role
+as the first Open Source DD-WRT router.  Now, in this age of
+remakes and reboots, Linksys has brought the WRT series back
+from the techno-graveyard, bigger and badder than ever.
+That clunky blue and black box with two antennas prodding
+out of the back has been improved with a sleek starship design,
+complete with four external antennas.
+Nice details and specs
+https://www.flashrouters.com/routers/router-types/dd-wrt/linksys-wrt1900acs-ddwrt-router
